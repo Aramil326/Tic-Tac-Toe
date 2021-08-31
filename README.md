@@ -1,0 +1,2 @@
+# Tic-Tac-Toe
+The playing field is 3x3. Interaction: the first player chooses a cell and puts his game symbol, then the second player puts his symbol. For each turn, one player can draw only one symbol. The winner is the player who lines up his chips horizontally or vertically. This is where the game ends and an inscription of which player won is displayed. If all the cells are filled and the winner is not determined, the game ends in a draw.
